@@ -14,7 +14,7 @@ This project automates the Flipkart shopping process using **Selenium WebDriver*
 
 ## **Installation**
 1. Clone the repository:
-   git clone https://github.com/your-repo/flipkart-automation.git
+   git clone https://github.com/shivangi0126/flipkart_automation.git
    cd flipkart-automation
 
 2. Install dependencies:
